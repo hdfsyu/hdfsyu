@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hdfsyu
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning how to make an OS
+- 💞️ I’m looking to collaborate on SDL2 projects
+- 📫 How to reach me ur not allowed to reach me XD
