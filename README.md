@@ -5,4 +5,4 @@
 - 📫 How to reach me ur not allowed to reach me XD
 
 
-also shoutout to @PolyMars on youtube he inspired me to code and stuff check him out [here](https://www.youtube.com/channel/UCl7dSJloxuCa9IBFml7sakw) and his itch.io page is [here](https://polymars.itch.io)
+also shoutout to @PolyMars on youtube he inspired me to code and stuff check him out [here](https://www.youtube.com/channel/UCl7dSJloxuCa9IBFml7sakw) and his itch.io page is [here](https://polymars.itch.io) and his github is [here](https://github.com/PolyMarsDev)
