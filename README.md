@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdfsyu
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning how to make an OS
+- 🌱 I’m currently re-learning SDL2
 - 💞️ I’m looking to collaborate on SDL2 projects
 - 📫 How to reach me email viyaanchauhan@icloud.com 😊
 
