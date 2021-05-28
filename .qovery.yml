@@ -1,0 +1,11 @@
+---
+application:
+  name: "hdfsyu"
+  project: "Test-Project"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-hdfsyu"
+  routes:
+  - application_name: "hdfsyu"
+    paths:
+    - "/*"
