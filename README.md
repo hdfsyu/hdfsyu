@@ -1,4 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hdfsyu&show_icons=true)
 hello, i am hdfsyu irl name is Viyaan, but i perfer hdfsyu more
 i code in c++, c, java, javascript and a few more languages that i forgot the name of lol
 i sometimes post things on [itch.io](https://hdfsyu.itch.io)
